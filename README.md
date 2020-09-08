@@ -18,7 +18,7 @@
 5. [Part3: Data Visualization Advantages](Part3-visualisation_theory.md)
 7. [Part3: Visualization Notebook](Part3-visualization.ipynb)
 8. [Part4: Data Cleaning Techniques](Part4-data_cleaning.md)
-9. [Part7: data_Cleaning notebook](Part4-data_Cleaning.ipynb)
+9. [Part4: data_Cleaning notebook](Part4-data_Cleaning.ipynb)
 
 # Module 2
 
