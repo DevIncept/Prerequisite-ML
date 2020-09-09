@@ -96,13 +96,18 @@
 
 # Module 4
 
-> 2 Assignments, 2 Projects 
+> 1 Assignment 
 
-4. [Part1(c): Underfitting&Overfitting Problem](Part2-underfitting.md)
-5. [Part2: Bias-variance Tradeoff](Part2-Tradeoff.md)
-3. [Part1: Project-ad click prediction](Part1-ACP.ipynb)
-4. [Part2: Support Vector Machine](Part2-SVM.md)
-5. [Part2: Use of Kernel in SVM](Part2-Kernel.md)
-6. [Part2: Example of SVM](Part2-SVM.ipynb)
-7. [Part2: Project-Iris Flower Classication](Part1-IFC.ipynb)
+1. [Part1: Underfitting Problem](Part1-underfitting.md)
+2. [Part2: Overfitting Problem](Part2-Overfitting.md)
+3. [Part3: Solution for overfitting and underfitting](Part3-solution.md)
+4. [Part4: Bias-variance Tradeoff](Part4-Tradeoff.md)
+5. [Part5: Hyperparameter Tuning](Part5-tuning.md)
+    * Manual Hyperparameter Tuning
+    * Grid Search
+    * Random Search
+    * Bayesian Optimization
+6. [Part5: Hyperparameter Tuning Notebook](Part5-tuning.ipynb)
+7. [Part6: Assignment: Project-Iris Flower Classication(increasing accuracy)](Part6-iris_accuracy.md)
+8. [Part6: Assignment: Project-Iris Flower Classication(increasing accuracy)](Part6-iris_accuracy.ipynb)
 
