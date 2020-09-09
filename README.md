@@ -16,10 +16,10 @@
 
 ### **Module 3**
 - Clssification Techniques
-- Logistic Regression
+	- Logistic Regression
 	- SVM
 	- KNN 
-	- Performance Measure
+- Performance Measure
 - Unsupervised Learning
 	- Project-Customer Segmentation
 
