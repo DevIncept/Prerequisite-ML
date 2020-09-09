@@ -43,7 +43,7 @@
        * KNN
        * Naïve Bayes
      > Usage
-    * Regression
+     * Regression
        * Linear Regression
        * Regularization Techniques (LASSO)
        * Polynomial Regression
