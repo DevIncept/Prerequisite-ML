@@ -33,7 +33,8 @@
 # Module 2
 
 > 1 Competition,1 project
-1. [Part1: Flowchart](Part1-flowchart.md)
+1. [Part1: Flowchart](Part1-flowchart.md)  
+
    1.) SUPERVISED LEARINING
      * Classification
        * Random Forest
@@ -47,7 +48,8 @@
        * Linear Regression
        * Regularization Techniques (LASSO)
        * Polynomial Regression
-     > Usage
+     > Usage  
+     
    2.) UNSUPERVISED LEARINING
      * Clustering
         * K-Means
