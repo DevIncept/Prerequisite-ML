@@ -19,6 +19,7 @@
 	- Logistic Regression
 	- SVM
 	- KNN 
+	- Project-Iris Flower dataset
 - Performance Measure
 - Unsupervised Learning
 	- Project-Customer Segmentation
@@ -29,4 +30,3 @@
 - Project-ad click Prediction
 - Support vector Machines
 - Use of kernels in SVM
-	- Project-Iris Flower dataset
