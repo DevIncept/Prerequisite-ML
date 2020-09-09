@@ -48,10 +48,10 @@
        * Regularization Techniques (LASSO)
        * Polynomial Regression
      > Usage
-  * Unsupervised Learning
-    * Clustering
-       * K-Means
-       * K Nearest Neighbours
+   * Unsupervised Learning
+     * Clustering
+        * K-Means
+        * K Nearest Neighbours
 
 2. [Part1: Unsupervised Learning](Part1-unsupervised_learning.md)
 3. [Part2: Regression Problem](Part2-regression.md)
