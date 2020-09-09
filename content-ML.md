@@ -90,8 +90,8 @@
 9. [Part6:Unsupervised Learning](Part6-Unsuper.md)
 10. [Part6(a):K-means](Part6(a)-k-means.md)
 11. [Part6(a):K-means Notebook](Part6(a)-k-means.ipynb)
-12. [Part7:Project: Customer segmentation](Part7:cutomer.md)
-13. [Part7:Project: Customer segmentation Notebook](Part7:cutomer.ipynb)
+12. [Part7:Project: Customer segmentation](Part7:customer.md)
+13. [Part7:Project: Customer segmentation Notebook](Part7:customer.ipynb)
 
 
 # Module 4
