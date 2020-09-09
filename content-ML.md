@@ -98,7 +98,7 @@
 
 > 2 Assignments, 2 Projects 
 
-4. [Part1(c): Underfitting&overfitting problem Problem](Part2-underfitting.md)
+4. [Part1(c): Underfitting&Overfitting Problem](Part2-underfitting.md)
 5. [Part2: Bias-variance Tradeoff](Part2-Tradeoff.md)
 3. [Part1: Project-ad click prediction](Part1-ACP.ipynb)
 4. [Part2: Support Vector Machine](Part2-SVM.md)
