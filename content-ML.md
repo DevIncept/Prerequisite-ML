@@ -33,7 +33,7 @@
 # Module 2
 
 > 1 Competition,1 project
-1. [Part1: Flowchart](Part1-flowchart.md)  
+1. [Part1: Flowchart with proper explanation of given algorithms.](Part1-flowchart.md)  
 
    1.) SUPERVISED LEARINING
      * Classification
@@ -56,7 +56,7 @@
         * K Nearest Neighbours
      > Usage
     
-2. [Part1: Unsupervised Learning](Part1-unsupervised_learning.md)
+2. [Part1(1): Classification](Part2-unsupervised_learning.md)
 3. [Part2: Regression Problem](Part2-regression.md)
 4. [Part2: Classification Problem](Part2-pclassification.md)
 5. [Part3: Performance Measure](Part3-Performance_measure.md)
