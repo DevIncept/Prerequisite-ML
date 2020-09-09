@@ -34,7 +34,7 @@
 
 > 1 Competition,1 project
 1. [Part1: Flowchart](Part1-flowchart.md)
-   * Supervised Learning
+   1. SUPERVISED LEARINING
      * Classification
        * Random Forest
        * Decision Trees
@@ -48,11 +48,12 @@
        * Regularization Techniques (LASSO)
        * Polynomial Regression
      > Usage
-   * Unsupervised Learning
+   2. UNSUPERVISED LEARINING
      * Clustering
         * K-Means
         * K Nearest Neighbours
-
+     > Usage
+    
 2. [Part1: Unsupervised Learning](Part1-unsupervised_learning.md)
 3. [Part2: Regression Problem](Part2-regression.md)
 4. [Part2: Classification Problem](Part2-pclassification.md)
