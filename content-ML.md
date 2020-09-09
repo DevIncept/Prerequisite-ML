@@ -9,7 +9,7 @@
 
 # Module 1
 
-> 1 assignment,1 project 
+> 1 assignment,2 projects 
 
 1. [Part1: Introduction to Machine Learning ](Part1-ML.md)
 2. [Part2: Data Preprocessing in Python](Part2-preprocess.md)
@@ -28,7 +28,7 @@
 16. [Part5: Visualization Notebook](Part5-visualization.ipynb)
 17. [Part6: Project: Gradebook using numpy and pandas](Part6-gradebook.md)
 18. [Part6: Project: Gradebook](Part6-gradebook.ipynb)
-17. [Part7: Assignment: Analyzing cyptocurrency Trends](Part7-crpto.ipynb)
+17. [Part7: Assignment(project): Analyzing cyptocurrency Trends](Part7-crpto.ipynb)
 
 # Module 2
 
@@ -48,6 +48,9 @@
        * Linear Regression
        * Regularization Techniques (LASSO)
        * Polynomial Regression
+       * Support Vector Regression
+       * Decision Tree Regression
+       * Random Forest Regression
      > Usage  
      
    2.) UNSUPERVISED LEARINING
@@ -56,31 +59,47 @@
         * K Nearest Neighbours
      > Usage
     
-2. [Part1(1): Classification](Part2-unsupervised_learning.md)
-3. [Part2: Regression Problem](Part2-regression.md)
-4. [Part2: Classification Problem](Part2-pclassification.md)
-5. [Part3: Performance Measure](Part3-Performance_measure.md)
-   * Accuracy
-   * confusion matrix
-   * f1-score
- 
+2. [Part2: Supervised Learning](Part2-supervised_learning.md)
+3. [Part3: Regression(popular algorithms)](Part3-regression.md)
+4. [Part3: Regression notebook](Part3-regression.ipynb)
+5. [Part4: Performance Measure(Regression)](Part4-Performance_measure-reg.md)
+   * R-Squared
+   * rmse(Root mean square error)
+6. [Part5:Project: Boston House Prediction](Part5-boston.md)
+7. [Part5:Project: Boston House Prediction Notebook](Part5-boston.ipynb)
+8. [Part6:Competition: Checking Accuracy for different models on boston house prediction](Part6-Competition-accuracy-boston.md)
+
  # Module 3
 
-> 1 Project,1 Assignment 
+> 1 Competition,2 Projects 
 
-1. [Part1: Linear Regression Theory](Part1-LReg_theory.md)
-2. [Part1: Linear Regression Example Notebook](Part1-LReg.ipynb)
-3. [Part2: Overfitting Problem ](Part2-overfitting.md)
-4. [Part2: Underfitting Problem](Part2-underfitting.md)
-5. [Part2: Bias-variance Tradeoff](Part2-Tradeoff.md)
-6. [Part3: Project-House_Price Estimation](Part3-HPE.ipynb)
+1. [Part1: Classification](Part1-classification.md)
+2. [Part1(a): Logistic regression](Part1(a)-LoReg.md)
+3. [Part1(b): SVM](Part1(b)-SVM.md)
+4. [Part1(c): K-nearest-Neighbors](Part1(c)-Knn.md)
+5. [Part1(d): Naiye Bayes](Part1(d)-Naive.md)
+6. [Part1(e): Decision trees](Part1(e)-Decision.md)
+7. [Part1(f): Random forest](Part1(f)-Random.md)
+8. [Part2: Performance Measure(Classification)](Part2-Performance_measure-class.md)
+    * Accuracy
+    * confusion matrix
+    * f1-score
+9. [Part3:Project: iris flower classification](Part5-iris.md)
+7. [Part4:Project: iris flower classification Notebook](Part5-iris.ipynb)
+8. [Part5:Competition: Checking Accuracy for different models on iris classification](Part5-Competition-accuracy-iris.md)
+9. [Part6:Unsupervised Learning](Part6-Unsuper.md)
+10. [Part6(a):K-means](Part6(a)-k-means.md)
+11. [Part6(a):K-means Notebook](Part6(a)-k-means.ipynb)
+12. [Part7:Project: Customer segmentation](Part7:cutomer.md)
+13. [Part7:Project: Customer segmentation Notebook](Part7:cutomer.ipynb)
+
 
 # Module 4
 
 > 2 Assignments, 2 Projects 
 
-1. [Part1: Logistic Regression Theory](Part1-LR_theory.md)
-2. [Part1: Logistic Regression Example Notebook](Part1-LR.ipynb)
+4. [Part1(c): Underfitting&overfitting problem Problem](Part2-underfitting.md)
+5. [Part2: Bias-variance Tradeoff](Part2-Tradeoff.md)
 3. [Part1: Project-ad click prediction](Part1-ACP.ipynb)
 4. [Part2: Support Vector Machine](Part2-SVM.md)
 5. [Part2: Use of Kernel in SVM](Part2-Kernel.md)
