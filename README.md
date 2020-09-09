@@ -8,8 +8,8 @@
 
 - Supervised Learning
 - Unsupervised Learning
-- Regression Problems 
-- Classification Problems
+- Regression Problem
+- Classification Problem
 - Performance Measure
 - Linear Regression
 	- Project-Boston House price prediction
