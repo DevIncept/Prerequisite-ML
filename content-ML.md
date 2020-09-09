@@ -32,9 +32,22 @@
 
 # Module 2
 
-> 1 assignment
-
-1. [Part1: Supervised Learning](Part1-supervised_learning.md)
+> 1 Competition,1 project
+1. [Part1: Flowchart](Part1-flowchart.md)
+   * Supervised Learning
+     * Classification
+       * Random Forest
+       * Decision Trees
+Logistic Regression
+Support Vector Machines
+KNN
+Naïve Bayes
+Usage
+Regression
+Linear Regression
+Regularization Techniques (LASSO)
+Polynomial Regression
+Usage
 2. [Part1: Unsupervised Learning](Part1-unsupervised_learning.md)
 3. [Part2: Regression Problem](Part2-regression.md)
 4. [Part2: Classification Problem](Part2-pclassification.md)
