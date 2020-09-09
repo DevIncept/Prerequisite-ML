@@ -12,7 +12,7 @@
 - Classification Problems
 - Performance Measure
 - Linear Regression
-- Project-Boston House price prediction
+	- Project-Boston House price prediction
 
 ### **Module 3**
 - Clssification Techniques
