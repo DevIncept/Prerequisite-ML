@@ -30,3 +30,14 @@
 - Project-ad click Prediction
 - Support vector Machines
 - Use of kernels in SVM
+
+
+# Tasks for this module:
+
+### [1. Introduction to markdown](Part1-markdown.md)
+
+### [2. Introduction to Git](Part2-git.md)
+
+### [3. Setting up environment](Part3-env.md)
+
+### [4. Assignment](Part4-ass.md)
