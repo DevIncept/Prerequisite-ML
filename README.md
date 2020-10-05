@@ -37,4 +37,4 @@
 
 ### [2. Introduction to Git](Part2-git.md)
 
-### [3. Assignment](Part4-ass.md)
+### [3. Assignment](Part3-assignment.md)
