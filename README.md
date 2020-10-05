@@ -27,7 +27,6 @@
 ###  **Module 4**
 - Underfitting and Overfitting
 - Bias-Variance Tradeoff
-- Project-ad click Prediction
 - Support vector Machines
 - Use of kernels in SVM
 
@@ -38,6 +37,4 @@
 
 ### [2. Introduction to Git](Part2-git.md)
 
-### [3. Setting up environment](Part3-env.md)
-
-### [4. Assignment](Part4-ass.md)
+### [3. Assignment](Part4-ass.md)
