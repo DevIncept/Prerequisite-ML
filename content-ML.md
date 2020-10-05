@@ -28,7 +28,6 @@
 16. [Part5: Visualization Notebook](Part5-visualization.ipynb)
 17. [Part6: Project: Gradebook using numpy and pandas](Part6-gradebook.md)
 18. [Part6: Project: Gradebook](Part6-gradebook.ipynb)
-17. [Part7: Assignment(project): Analyzing cyptocurrency Trends](Part7-crpto.ipynb)
 
 # Module 2
 
@@ -108,6 +107,4 @@
     * Random Search
     * Bayesian Optimization
 6. [Part5: Hyperparameter Tuning Notebook](Part5-tuning.ipynb)
-7. [Part6: Assignment: Project-Iris Flower Classication(increasing accuracy)](Part6-iris_accuracy.md)
-8. [Part6: Assignment: Project-Iris Flower Classication(increasing accuracy)](Part6-iris_accuracy.ipynb)
 
